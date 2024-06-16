@@ -11,3 +11,4 @@
 """
 
 from . import acoular_demo
+from . import acoular_demo_wav
